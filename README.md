@@ -1,18 +1,18 @@
 # WomenE-CommerceSentimentAnalysis  
 Sentiment Analysis of Women's E-commerce clothing data  
-##Analysis:
+## Project Milestones:
 1) Describe the data  
-    Descriptive statistics, data type, etc.  
+    a) Descriptive statistics, data type, etc.  
 2) Analyze the text comment/ review and share the findings  
 3) Convert the ratings into 2 classes  
-    Class: Bad when Rating <=3  
-    Class: Good otherwise  
+    a) Class: Bad when Rating <=3  
+    b) Class: Good otherwise  
 4) Develop a model to predict the Rating class (created above)  
-    Focus on steps to build a model  
-    Which algorithm can be used and why  
+    a) Focus on steps to build a model  
+    b) Which algorithm can be used and why  
 5) Share the findings of the model.  
 
-#### Downloading data
+**Downloading data** 
 Added it here as [Womens_Clothing_E_Commerce_Reviews.csv](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/Womens_Clothing_E_Commerce_Reviews.csv))  
 
 **Libraries**
