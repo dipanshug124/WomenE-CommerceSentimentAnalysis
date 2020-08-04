@@ -14,6 +14,17 @@ Sentiment Analysis of Women's E-commerce clothing data
 
 ### Data Analysis  
 ![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/AgeDistribution.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/AgeDistributionByClass.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/AgeDistributionVSAge.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/CategoryVsAGE.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/CountCategory.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/CountVSAge.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/Polarity.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/RatingCount.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/allWords.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/negativeWords.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/positiveWords.png)
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/reviewLengthVSrating.png)
 **Downloading data** 
 Added it here as [Womens_Clothing_E_Commerce_Reviews.csv](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/Womens_Clothing_E_Commerce_Reviews.csv))  
 
