@@ -12,6 +12,8 @@ Sentiment Analysis of Women's E-commerce clothing data
     b) Which algorithm can be used and why  
 5) Share the findings of the model.  
 
+### Data Analysis  
+![](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/images/AgeDistribution.png)
 **Downloading data** 
 Added it here as [Womens_Clothing_E_Commerce_Reviews.csv](https://github.com/dipanshug124/WomenE-CommerceSentimentAnalysis/blob/master/Womens_Clothing_E_Commerce_Reviews.csv))  
 
@@ -27,7 +29,6 @@ Added it here as [Womens_Clothing_E_Commerce_Reviews.csv](https://github.com/dip
 * [Jupyter Notebook](http://ipython.org/notebook.html)
 * [Anaconda](http://continuum.io/downloads) installed with `Python 3.8`  
 
-### Data Analysis  
 
 ### Model Output  
 From Notebook_1 we get the following inferences:  
